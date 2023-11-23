@@ -1,6 +1,7 @@
 # ALX-AWS-PROJECTS
-## This repo is my documentation and following through on my end of the ALX AWS Cloud computing track. After completion of the modules, I will be sitting for the AWS Solutions Architect Associate exam.
+## This repo is my personal documentation and follow through on the ALX AWS Cloud computing course. After completion of these modules, I will take the AWS Solutions Architect Associate exam.
 > Two modules per week.
+
 ### Modules
 - [x] Module 1 (Introduction to AWS Cloud Architecting)
 - [x] Module 2 (Introduction to Cloud Architecting)
