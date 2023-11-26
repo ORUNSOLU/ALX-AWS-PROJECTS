@@ -10,7 +10,7 @@
 - [x] Module 5 (Adding a Database layer)
 - [x] Module 6 (Creating a networking environment)
 - [ ] Module 7 (Connecting networks)
-- [ ] Module 8
+- [ ] Module 8 (Securing users and applications access)
 - [ ] Module 9
 - [ ] Module 10
 - [ ] Module 11
