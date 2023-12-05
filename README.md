@@ -11,8 +11,8 @@
 - [x] Module 6 (Creating a networking environment)
 - [x] Module 7 (Connecting networks)
 - [x] Module 8 (Securing users and applications access)
-- [ ] Module 9
-- [ ] Module 10
+- [x] Module 9 (Implementing Elasticity, High Availability and Monitoring)
+- [x] Module 10 (Automating your Architecture)
 - [ ] Module 11
 - [ ] Module 12
 - [ ] Module 13
