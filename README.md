@@ -2,7 +2,7 @@
 ## This repo is my personal documentation and follow through on the ALX AWS Cloud computing course. After completion of these modules, I will take the AWS Solutions Architect Associate exam.
 > Two modules per week.
 
-You can also check out my practice and usage of Google [Cloud Platform](https://www.cloudskillsboost.google/public_profiles/62b94d90-6d1a-4c6e-abfa-42d33d3778f8)
+You can also check out my practice and usage of [Google Cloud Platform](https://www.cloudskillsboost.google/public_profiles/62b94d90-6d1a-4c6e-abfa-42d33d3778f8)
 
 ### Modules
 - [x] Module 1 (Introduction to AWS Cloud Architecting)
