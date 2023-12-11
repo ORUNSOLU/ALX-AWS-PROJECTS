@@ -15,7 +15,7 @@ You can also check out my practice and usage of [Google Cloud Platform](https://
 - [x] Module 8 (Securing users and applications access)
 - [x] Module 9 (Implementing Elasticity, High Availability and Monitoring)
 - [x] Module 10 (Automating your Architecture)
-- [ ] Module 11
-- [ ] Module 12
+- [x] Module 11 (Caching content)
+- [x] Module 12 (Building Decoupled Architectures)
 - [ ] Module 13
 - [ ] Module 14
