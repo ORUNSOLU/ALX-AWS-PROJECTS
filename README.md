@@ -7,7 +7,7 @@ You can also peek my acquired skill badged which I gained practicing various tas
 
 ### Modules
 - [x] Module 1 (Introduction to Cloud Architecting)
-- [x] Module 2 (Introduction to AWS Cloud Architecting)
+- [x] Module 2 (Introduction to AWS Cloud Architecting)[^2]
 - [x] Module 3 (Creating a storage layer)
 - [x] Module 4 (Creating a compute layer)
 - [x] Module 5 (Creating a Database layer)
@@ -24,10 +24,10 @@ You can also peek my acquired skill badged which I gained practicing various tas
 ---
 # Summary of Lab Tasks
 
-### Module 2[^1]
-[^1]: Learnt about the AWS Well Architected Framework
-[^2]: Learnt and understood best practices for building solutions on AWS
-[^3]: Learnt about AWS Global Infrastructure
+### Module 2[^2]
+[x]: Learnt about the AWS Well Architected Framework
+[x]: Learnt and understood best practices for building solutions on AWS
+[x]: Learnt about AWS Global Infrastructure
 
 ### Module 3[^1]
 [^1]: Hosted a Static website using Amazon S3 and enabled access to the bucket
