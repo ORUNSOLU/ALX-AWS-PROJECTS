@@ -24,12 +24,12 @@ You can also peek my acquired skill badged which I gained practicing various tas
 ---
 # Summary of Lab Tasks
 
-### Module 2
+### Module 2[^1]
 [^1]: Learnt about the AWS Well Architected Framework
 [^2]: Learnt and understood best practices for building solutions on AWS
 [^3]: Learnt about AWS Global Infrastructure
 
-### Module 3
+### Module 3[^1]
 [^1]: Hosted a Static website using Amazon S3 and enabled access to the bucket
 [^2]: Implemented a data lifecycle strategy in Amazon S3 & object versioning on the buckets
 [^3]: Implemented a disaster recovery in Amazon S3
@@ -44,7 +44,7 @@ You can also peek my acquired skill badged which I gained practicing various tas
 [^7]: created a second AMI and deploy web app to another region
 [^8]: Examined and monitored the performance of the file system
 
-### Module 5
+### Module 5[^1]
 [^1]: Created an RDS Database instance
 [^2]: Exported data from MariaDB database by using mysqldump
 [^3]: Connected a SQL client to an RDS database
