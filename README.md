@@ -25,14 +25,14 @@ You can also peek my acquired skill badged which I gained practicing various tas
 # Summary of Lab Tasks
 
 ### Module 2[^2]
-[x]: Learnt about the AWS Well Architected Framework
-[x]: Learnt and understood best practices for building solutions on AWS
-[x]: Learnt about AWS Global Infrastructure
+* Learnt about the AWS Well Architected Framework
+* Learnt and understood best practices for building solutions on AWS
+* Learnt about AWS Global Infrastructure
 
-### Module 3[^1]
-[^1]: Hosted a Static website using Amazon S3 and enabled access to the bucket
-[^2]: Implemented a data lifecycle strategy in Amazon S3 & object versioning on the buckets
-[^3]: Implemented a disaster recovery in Amazon S3
+### Module 3
+* Hosted a Static website using Amazon S3 and enabled access to the bucket
+* Implemented a data lifecycle strategy in Amazon S3 & object versioning on the buckets
+* Implemented a disaster recovery in Amazon S3
 
 ### Module 4
 [^1]: Created an EFS file system and mounted it to an EC2 instance
