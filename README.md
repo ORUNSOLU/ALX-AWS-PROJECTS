@@ -24,7 +24,7 @@ You can also peek my acquired skill badged which I gained practicing various tas
 ---
 # Summary of Lab Tasks
 
-### Module 2[^2]
+[^2]### Module 2
 * Learnt about the AWS Well Architected Framework
 * Learnt and understood best practices for building solutions on AWS
 * Learnt about AWS Global Infrastructure
