@@ -65,8 +65,8 @@ You can also peek my acquired skill badged which I gained practicing various tas
 ## Module 8
 * Created IAM users & IAM groups, and associated IAM policies with the IAM groups
 * Observed how limited access rights affect what resources IAM users can access & what actions they can take
-* Used AWS managed IAM policies to modify user access rights and observed the results
-* Used the IAM Policy Simulator to observe the scope of the access that is granted by different policies
+* Configured AWS managed IAM policies to modify user access rights and observed the results
+* Configured the IAM Policy Simulator to observe the scope of the access that is granted by different policies
 * Accessed the IAM Access Advisor to observe what access rights different users are taking advantage of
 * Created custom IAM policies by using the visual editor
 
@@ -81,8 +81,8 @@ You can also peek my acquired skill badged which I gained practicing various tas
 * Deployed a VPC networking layer using AWS CloudFormation
 * Deployed an Application layer using AWS CloudFormation that references the networking layer
 * Explored templates with AWS CloudFormation Designer & deleted a stack with a deletion policy to observe it's behaviour
-* 
-* 
+* Configured Git to invoke AWS CodePipeline, and to create or update stacks from templates that are stored in AWS CodeCommit
+* Duplicated network and application resources to another AWS Region by using AWS CloudFormation
 
 ## Module 11
 * Created multiple bit-rate versions of a given source media file using Amazon Elastic Transcoder
