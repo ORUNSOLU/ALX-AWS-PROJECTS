@@ -18,8 +18,8 @@ You can also peek my acquired skill badged which I gained practicing various tas
 - [x] Module 10 (Automating your Architecture)
 - [x] Module 11 (Caching content)
 - [x] Module 12 (Building Decoupled Architectures)
-- [ ] Module 13
-- [ ] Module 14
+- [ ] Module 13 (Building Microservices and Serverless Architectures)
+- [ ] Module 14 (Planning for Disaster)
 
 ---
 # Summary of Lab Tasks
@@ -88,3 +88,9 @@ You can also peek my acquired skill badged which I gained practicing various tas
 * Created multiple bit-rate versions of a given source media file using Amazon Elastic Transcoder
 * COnfigured Amazon CloudFront to deliver the dynamic (multi bit-rate) stream created by Amazon Elastic Transcoder
 * Learnt about Caching contents using CloudFront, Amazon DynamoDB Accelerator (DaX) and Elastic Cache (MemCached, Redis)
+
+## Module 12
+* Learnt about building Amazon SQS for building Microservice architectures (and use cases)
+* Learnt about Amazon SNS, and use cases
+* Learnt about Amazon Message Queue (MQ),and use cases
+* Gained insights on demos and use case for each service type
