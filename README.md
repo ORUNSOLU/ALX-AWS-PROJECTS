@@ -94,3 +94,12 @@ You can also peek my acquired skill badged which I gained practicing various tas
 * Learnt about Amazon SNS, and use cases
 * Learnt about Amazon Message Queue (MQ),and use cases
 * Gained insights on demos and use case for each service type
+
+## Module 13
+* Learnt about ECS, Fargate, autoscaling groups, AWS Cloud Map, AWS App Mesh
+* Triggered Lambda functions from Amazon S3 and Amazon DynamoDB
+* Configure Amazon Simple Notification Service (Amazon SNS) to send notifications
+# Next Lab
+* Migrated a monolithic Node.js application to run in a Docker container
+* Refactored a Node.js application from a monolithic design to a microservices architecture
+* Deployed a containerized Node.js microservices application to Amazon ECS
