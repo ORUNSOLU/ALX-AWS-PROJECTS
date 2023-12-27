@@ -99,7 +99,8 @@ You can also peek my acquired skill badged which I gained practicing various tas
 * Learnt about ECS, Fargate, autoscaling groups, AWS Cloud Map, AWS App Mesh
 * Triggered Lambda functions from Amazon S3 and Amazon DynamoDB
 * Configure Amazon Simple Notification Service (Amazon SNS) to send notifications
-# Next Lab
+* created a Lambda function within a VPC that connects to an Amazon RDS database with a sales data
+* Created a Lambda function that generates and runs a sales report
 * Migrated a monolithic Node.js application to run in a Docker container
 * Refactored a Node.js application from a monolithic design to a microservices architecture
 * Deployed a containerized Node.js microservices application to Amazon ECS
