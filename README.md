@@ -18,8 +18,9 @@ You can also peek my acquired skill badged which I gained practicing various tas
 - [x] Module 10 (Automating your Architecture)
 - [x] Module 11 (Caching content)
 - [x] Module 12 (Building Decoupled Architectures)
-- [ ] Module 13 (Building Microservices and Serverless Architectures)
-- [ ] Module 14 (Planning for Disaster)
+- [x] Module 13 (Building Microservices and Serverless Architectures)
+- [x] Module 14 (Planning for Disaster)
+- [ ] Module 15 (Capstone Projects)
 
 ---
 # Summary of Lab Tasks
@@ -104,3 +105,11 @@ You can also peek my acquired skill badged which I gained practicing various tas
 * Migrated a monolithic Node.js application to run in a Docker container
 * Refactored a Node.js application from a monolithic design to a microservices architecture
 * Deployed a containerized Node.js microservices application to Amazon ECS
+
+## Module 14
+* Learnt about Disaster Recovery Pattern (Pilot-light, multi-site etc.), Recovery Point Objective (RPO), Recovery Time Objective (RTO), migration strategies etc.
+* Configured a File Gateway with an NFS file share and attached it to a Linux instance
+* Migrated a set of data from the Linux instance to an S3 bucket
+* Created & configured a primary S3 bucket to migrate on-premises server data to AWS
+* Created & configured a secondary S3 bucket to use for cross-Region replication
+* Created an S3 lifecycle policy to automatically manage data in a bucket
