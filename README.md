@@ -20,7 +20,7 @@ You can also peek my acquired skill badged which I gained practicing various tas
 - [x] Module 12 (Building Decoupled Architectures)
 - [x] Module 13 (Building Microservices and Serverless Architectures)
 - [x] Module 14 (Planning for Disaster)
-- [ ] Module 15 (Capstone Projects)
+- [x] Module 15 (Capstone Projects)
 
 ---
 # Summary of Lab Tasks
@@ -113,3 +113,10 @@ You can also peek my acquired skill badged which I gained practicing various tas
 * Created & configured a primary S3 bucket to migrate on-premises server data to AWS
 * Created & configured a secondary S3 bucket to use for cross-Region replication
 * Created an S3 lifecycle policy to automatically manage data in a bucket
+
+## Module 15
+* Deployed a PHP application that runs on an Amazon Elastic Compute Cloud (Amazon EC2) instance
+* Created a database instance that the PHP application can query
+* Created a MySQL database from a structured query language (SQL) dump file
+* Updated application parameters in an AWS Systems Manager Parameter Store
+* Secured the application to prevent public access to backend systems
