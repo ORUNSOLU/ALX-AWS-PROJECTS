@@ -1,5 +1,7 @@
 # ALX-AWS-PROJECTS
-## This repo is my personal documentation and follow through on the ALX AWS Cloud computing course. After completion of these modules, I will take the AWS Solutions Architect Associate exam.
+## This repo is my personal documentation and follow through of the ALX AWS Cloud computing handson course. After completion of these modules, I took my AWS-SAA-C03 exam and passed. Validate at [AWS](https://cp.certmetrics.com/amazon/en/public/verify/credential/58b10d61603c4d10a35ca13ff47bf62f)
+
+
 > Two modules per week.
 
 You can also peek my acquired skill badged which I gained practicing various tasks on [Google Cloud Platform](https://www.cloudskillsboost.google/public_profiles/62b94d90-6d1a-4c6e-abfa-42d33d3778f8)
